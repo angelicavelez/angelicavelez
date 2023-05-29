@@ -1,8 +1,5 @@
 ### Hola a todos👋 soy Angélica. Este es mi portafolio donde comparto diferentes proyectos relacionados con Ciencia de Datos
 
-<!--
-**angelicavelez/angelicavelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Acerca de mí:
 
 - 🔭 Después de varios años estar inmersa profesionalmente en TI, encontré mi norte con la Ciencia de Datos.
@@ -12,4 +9,6 @@ Acerca de mí:
 - 🤔 Busco trabajar formalmente como Data Scientist o Data Analyst.
 - 🙊 Dato ramdon, me gusta la fotografía, soy zurda y soy fan de Shakira desde hace mil años 😄
 
+<!--
+**angelicavelez/angelicavelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
