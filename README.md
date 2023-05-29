@@ -2,6 +2,8 @@
   <img src="https://github.com/angelicavelez/angelicavelez/blob/main/banner_.png" width="1000"/>
 </div>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelicavelezb/)
+
 ### Hola a todos👋 soy Angélica y estoy entrenándome como Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Este es mi portafolio personal donde guardo y comparto códigos de proyectos que he realizado.
 
 ### :woman_technologist:  Acerca de mí:
@@ -28,6 +30,10 @@
 
 </div>
 -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angelicavelez&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicavelez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **angelicavelez/angelicavelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
