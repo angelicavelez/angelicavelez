@@ -4,9 +4,10 @@
 <!--
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelicavelezb/)
 -->
-### Hola a todos👋 soy Angélica Vélez y estoy entrenándome como Data Scientist. Este es mi portafolio personal donde guardo y comparto códigos de proyectos que he realizado.
 
-### :woman_technologist:  Acerca de mí:
+#### Hola a todos👋 soy Angélica Vélez y estoy entrenándome como Data Scientist. Este es mi portafolio personal donde guardo y comparto códigos de proyectos que he realizado.
+
+##### :woman_technologist:  Acerca de mí:
 
 - 🔭 Después de varios años de estar inmersa profesionalmente en TI, encontré mi norte y pasión por la Ciencia de Datos.
 - 🌱 Hice un maravilloso Bootcamp intensivo  de Data Scientist, donde he trabajado haciendo proyectos reales en distintas industrias.
