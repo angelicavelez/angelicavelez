@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://github.com/angelicavelez/angelicavelez/blob/main/banner_.png" width="1000"/>
 </div>
-
+<!--
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelicavelezb/)
-
-### Hola a todos👋 soy Angélica y estoy entrenándome como Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Este es mi portafolio personal donde guardo y comparto códigos de proyectos que he realizado.
+-->
+### Hola a todos👋 soy Angélica Vélez y estoy entrenándome como Data Scientist. Este es mi portafolio personal donde guardo y comparto códigos de proyectos que he realizado.
 
 ### :woman_technologist:  Acerca de mí:
 
@@ -14,22 +14,23 @@
 - 🫶 Disfruto explorando, analizando y modelando datos, los datos siempre tienen algo que contar, por lo que me siento como Sherlock Holmes.
 - 💯 Busco oportunidades laborales como Data Scientist o Data Analyst.
 - 😄 Dato random, soy fotógrafa aficionada, zurda y fan de Shakira desde hace mil años.
-<!--
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelicavelezb/)
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Angélica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelicavelezb/)
 
 🛠️ Lenguajes y herramientas que utilizo:
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-    <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
+ <img src="https://img.shields.io/badge/Pandas-217346?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </a>
- <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  <img src="https://img.shields.io/badge/Scikit_learn-1E90FF?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-
+ <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
+  </a>
 </div>
--->
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angelicavelez&theme=dark&background=000000)](https://git.io/streak-stats)
 
