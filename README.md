@@ -24,11 +24,11 @@
   </a>
  <img src="https://img.shields.io/badge/Pandas-217346?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </a>
-  <img src="https://img.shields.io/badge/Scikit_learn-1E90FF?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
- <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
+ <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"/>
   </a>
 </div>
 
