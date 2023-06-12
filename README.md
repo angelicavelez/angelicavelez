@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/angelicavelez/angelicavelez/blob/main/banner_.png" width="1000"/>
+  <img src="https://github.com/angelicavelez/angelicavelez/blob/main/banner new.png" width="1000"/>
 </div>
 <!--
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelicavelezb/)
